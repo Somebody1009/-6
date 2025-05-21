@@ -42,9 +42,9 @@ def process_file(filename):
 
 if __name__ == "__main__":
     filenames = [
-        "inputs/input01.txt",
-        "inputs/input02.txt",
-        "inputs/input03.txt",
+        "inputs/input01 (2).txt",
+        "inputs/input02 (2).txt",
+        "inputs/input03 (2).txt",
     ]
 
     for file in filenames:
